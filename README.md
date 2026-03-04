@@ -1,27 +1,14 @@
-<h1 align="center">Hi, I'm Noah 👋</h1>
+<h1 align="center">Hi, I’m Noah 👋</h1>
 <p align="center">
-  Product Manager building practical AI products, systems, and workflows.<br/>
-  Based in Berlin, Germany.
+<b>AI Product Manager | Banking & Finance | Berlin</b>
 </p>
 
-## What I Work On
-- AI product strategy and 0->1 experiments
-- Workflow automation and PM operating systems
-- Translating user feedback into shippable product decisions
+I’m a tinkerer, smart home enthusiast, and product builder. I use technology to solve real-world problems, and AI gives me the leverage to build faster and with more impact.
 
-## Current Focus
-- Building reusable PM + AI playbooks
-- Shipping small, high-signal prototypes fast
-- Improving product communication and execution quality
+My sweet spot sits at the intersection of deep Banking & Finance domain expertise, hands-on AI execution, and product strategy.
 
-## Featured Repositories
-- [`PicoClaw-HASS-Addon`](https://github.com/NoahBuildsAI/PicoClaw-HASS-Addon) - Home Assistant add-on to run PicoClaw with health checks and restart controls.
-- [`Noah-UI`](https://github.com/NoahBuildsAI/Noah-UI) - Profile/config repository for my public GitHub presence.
+I focus on:
+- Solving complex workflows: using AI to turn ambiguity into shippable systems in financial services.
+- Building AI-first operating models: improving how product teams scope, decide, and execute in an AI-native environment.
 
-## Connect
-- LinkedIn: add-your-link
-- X / Twitter: add-your-link
-- Website: add-your-link
-
----
-I use this profile to share practical work, thinking, and experiments around AI product management.
+Let’s connect: LinkedIn • Website • X/Twitter
