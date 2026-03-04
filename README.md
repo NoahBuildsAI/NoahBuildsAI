@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Noah 👋</h1>
+<p align="center">
+  Product Manager building practical AI products, systems, and workflows.<br/>
+  Based in Berlin, Germany.
+</p>
 
-<!--
-**NoahBuildsAI/NoahBuildsAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I Work On
+- AI product strategy and 0->1 experiments
+- Workflow automation and PM operating systems
+- Translating user feedback into shippable product decisions
 
-Here are some ideas to get you started:
+## Current Focus
+- Building reusable PM + AI playbooks
+- Shipping small, high-signal prototypes fast
+- Improving product communication and execution quality
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Repositories
+- [`PicoClaw-HASS-Addon`](https://github.com/NoahBuildsAI/PicoClaw-HASS-Addon) - Home Assistant add-on to run PicoClaw with health checks and restart controls.
+- [`Noah-UI`](https://github.com/NoahBuildsAI/Noah-UI) - Profile/config repository for my public GitHub presence.
+
+## Connect
+- LinkedIn: add-your-link
+- X / Twitter: add-your-link
+- Website: add-your-link
+
+---
+I use this profile to share practical work, thinking, and experiments around AI product management.
